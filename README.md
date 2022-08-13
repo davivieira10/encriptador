@@ -27,7 +27,7 @@ UM BOTÃO QUE COPIE O TEXTO CRIPTOGRAFADO/DESCRIPTOGRAFADO PARA A ÁREA DE TRANS
 
 <h3>BADGE recebida referente ao desafio proposto concluído
 <img align="right" alt="Badge Challenge I - Encriptador de Textos" width= "500" height="500" src="https://i.postimg.cc/76f32KwK/Programa-ONE-Badge-desafio-conclu-do-Challenge-I-Encriptador-de-Textos.png"></h3>
-
+<br>
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
