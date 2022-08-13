@@ -25,13 +25,15 @@ O RESULTADO DEVE SER EXIBIDO NA TELA.
 <h3>EXTRAS:</h3>
 UM BOTÃO QUE COPIE O TEXTO CRIPTOGRAFADO/DESCRIPTOGRAFADO PARA A ÁREA DE TRANSFERÊNCIA - OU SEJA, QUE TENHA A MESMA FUNCIONALIDADE DO CTRL+C OU DA OPÇÃO "COPIAR" DO MENU DOS APLICATIVOS.
 
-<h3>BADGE recebida referente ao desafio proposto concluído
-<img align="right" alt="Badge Challenge I - Encriptador de Textos" width= "500" height="500" src="https://i.postimg.cc/76f32KwK/Programa-ONE-Badge-desafio-conclu-do-Challenge-I-Encriptador-de-Textos.png"></h3>
-
-
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+<h3>BADGE recebida referente ao desafio proposto concluído
+<img align="right" alt="Badge Challenge I - Encriptador de Textos" width= "500" height="500" src="https://i.postimg.cc/76f32KwK/Programa-ONE-Badge-desafio-conclu-do-Challenge-I-Encriptador-de-Textos.png"></h3>
+
+
+
