@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Challenge I - Encriptador de Textos</title>
+    
+    <link rel="shortcut icon" href="src/imagens/cadeado.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="src/css/reset.css">
+
+    <link rel="stylesheet" href="src/css/style.css" />
+ </head>
+  <body>
+  <div class="container">
+    <div class="logo">
+      <img class="logo-imagem" src="src/imagens/icon-alura.png">
+      <header class="cabecalho">Challenge I - Encriptador/Desencriptador🔐</header>
+    </div>
+    <div class="imagens">
+      <span><img class="logo-topo" src="src/imagens/oracle-alura.png" alt="logo-oracle-alura"/></span>
+      <a class="link-github" href="https://github.com/davivieira10" target="_blank">
+      <img class="eu-desenho" src="src/imagens/eu-desenho.png" alt="minha-foto"></a>
+    </div>
+    
+    <div class="texto-esquerda">
+      <textarea class="texto-principal-esquerda" name="texto-principal" id="texto-principal" placeholder="Digite seu texto" required autofocus></textarea>
+    </div>
+
+    <div class="texto-direita">
+      <img src="src/imagens/icon-garoto.gif" id="imagem-direita">
+      <h1 id="texto-primario">Nenhuma mensagem encontrada</h1>
+      <textarea id="texto-secundario">Digite um texto que você deseja criptografar ou descriptografar.</textarea>
+      <button class="botao-copiar" type="button" id="copiar" onclick="copiar()">Copiar</button>
+      <button class="botao-limpar" onclick="limpar()">Limpar</button>
+    </div>
+
+    <div class="paragrafo">
+      <p>❕Apenas letras minúsculas e sem acento.</p>
+    </div>
+    <!-- Botões Criptografar e Descriptografar -->
+    <div class="botoes">
+      <button type="button" id="botao-criptografar" onclick="criptografar()">Criptografar</button>
+      <button type="button" id="botao-descriptografar" onclick="descriptografar()">Descriptografar</button>
+    </div>
+   
+
+    <footer class="rodape">
+      <div class="informacoes">&COPY; Desenvolvido por: <strong><a class="link-principal" href="https://www.linkedin.com/ in/davi-adm/">Davi Vieira Gonçalves</a></strong>
+        <a href="https://github.com/davivieira10" target="_blank"><img src="src/imagens/icon-github.png" alt="logo github"/></a>
+        <a href="https://www.linkedin.com/in/davi-adm/" target="_blank">
+        <img src="src/imagens/icon-linkedin.png" alt="logo linkedin"/></a>
+      </div>
+
+      <div class="desafio"><small>First Challenge by:
+        <a class="link-alura" href="https://www.alura.com.br/" target="_blank">Alura</a> &
+        <a class="link-oracle" href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">Oracle - ONE</a></small>
+      </div>
+   </footer>
+
+  <script src="src/js/script.js"></script>
+</body>
+</html>

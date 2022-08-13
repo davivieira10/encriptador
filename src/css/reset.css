@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    height: 100%;
+    font-size: 100%;
+    display: flex;
+    flex-direction: column;
+    }
+
+/* Classe do header */
+cabecalho {
+    flex: 1 0 auto;
+}
+
+.rodape {
+    flex-shrink: 0;
+    padding: 30px;
+    text-align: center;
+}
+
