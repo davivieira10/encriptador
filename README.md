@@ -26,7 +26,7 @@ O RESULTADO DEVE SER EXIBIDO NA TELA.
 UM BOTÃO QUE COPIE O TEXTO CRIPTOGRAFADO/DESCRIPTOGRAFADO PARA A ÁREA DE TRANSFERÊNCIA - OU SEJA, QUE TENHA A MESMA FUNCIONALIDADE DO CTRL+C OU DA OPÇÃO "COPIAR" DO MENU DOS APLICATIVOS.
 
 <h3>BADGE recebida referente ao desafio proposto concluído</h3>
-<img align="right" alt="Badge Challenge I - Encriptador de Textos" height="140" src="https://i.postimg.cc/76f32KwK/Programa-ONE-Badge-desafio-conclu-do-Challenge-I-Encriptador-de-Textos.png">
+<img align="right" alt="Badge Challenge I - Encriptador de Textos" width= "200" height="200" src="https://i.postimg.cc/76f32KwK/Programa-ONE-Badge-desafio-conclu-do-Challenge-I-Encriptador-de-Textos.png">
 
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
