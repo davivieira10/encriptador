@@ -66,6 +66,7 @@ input {
 }
 
 .texto-principal-esquerda {
+    text-transform:lowercase;
     position: relative;
     font-family: 'Inter';
     font-style: normal;
