@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&family=Electrolize&family=Inter&family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 body{
+font-family: 'Inter', sans-serif;
 background-image: url(../imagens/imagem-fundo.jpg);
 }
 
 .container{
-    font-family: 'Inter';
     font-size: 12px;
     margin: auto;
     width: 960px;
@@ -30,7 +30,6 @@ background-image: url(../imagens/imagem-fundo.jpg);
 }
 
 .cabecalho {
-    font-family: 'Alumni Sans Inline One';
     font-size: 30px;
     float: inherit;
     margin-top: 20px;
@@ -68,7 +67,6 @@ input {
 .texto-principal-esquerda {
     text-transform:lowercase;
     position: relative;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
@@ -88,7 +86,6 @@ input {
 }
 
 .paragrafo {
-    font-family: 'Inter';
     font-weight: bold;
     font-style: normal;
     font-weight: 400px;
@@ -123,7 +120,6 @@ input {
     height: 650px;
     background: #F3F5FC;
     color: #0A3871;
-    font-family: 'Eletrolize';
     font-size: 12px;
     line-height: 170%;
     /* or 29px */
@@ -142,7 +138,6 @@ input {
 #texto-primario #texto-secundario {
     width: 336px;
     height: 58px;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
@@ -152,7 +147,6 @@ input {
 }
 
 #texto-secundario {
-    font-family: 'Kaushan Script';
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -170,7 +164,6 @@ input {
 
 .botao-copiar {
     cursor:pointer;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: bold;
     display: inline-block;
@@ -191,7 +184,6 @@ input {
 
 .botao-limpar {
     cursor:pointer;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: bold;
     border: none;
@@ -209,7 +201,6 @@ input {
 
 #botao-criptografar {
     cursor:pointer;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: bold;
     border: none;
@@ -229,7 +220,6 @@ input {
 
 #botao-descriptografar {
     cursor:pointer;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: bold;
     border: none;
@@ -269,7 +259,6 @@ input {
     border-radius:4px;
     display:inline-block;
     cursor:pointer;
-    font-family:Verdana;
     font-weight:bold;
     font-size:13px;
     padding:6px 25px;
