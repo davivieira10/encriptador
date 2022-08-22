@@ -31,6 +31,7 @@ background-image: url(../imagens/imagem-fundo.jpg);
 
 .cabecalho {
     font-size: 30px;
+    font-weight: bold;
     float: inherit;
     margin-top: 20px;
     margin-left: 10px;
