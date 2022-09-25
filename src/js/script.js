@@ -59,7 +59,7 @@ document.getElementById("texto-principal").value='';
 //Alerta que a msg foi apagada
 alert("Mensagem apagada! 🗑");
 //Recarrega a página
-//location.reload();
+location.reload();
 //Define o foco no campo input novamente
 document.getElementById("texto-principal").focus();
 }
